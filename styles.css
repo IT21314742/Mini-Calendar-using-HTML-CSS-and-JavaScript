@@ -16,5 +16,6 @@ body{
     overflow: hidden;
 }
 .month-name{
+    margin: 0;
 
 }
