@@ -8,3 +8,4 @@ const date = new Date();
 monthNameEl.innerText = date.toLocaleString("en",{
     month:"long"
 })
+
