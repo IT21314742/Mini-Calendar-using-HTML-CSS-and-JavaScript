@@ -4,3 +4,5 @@ const dayNumEl = document.getElementById("day-number");
 const yearEl = document.getElementById("year");
 
 const date = new Date();
+
+monthNameEl
