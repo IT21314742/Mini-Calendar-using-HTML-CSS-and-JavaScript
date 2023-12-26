@@ -9,4 +9,4 @@ monthNameEl.innerText = date.toLocaleString("en",{
     month:"long"
 })
 
-dayNameEl.innerText = date
+dayNameEl.innerText = date.toLocaleString
