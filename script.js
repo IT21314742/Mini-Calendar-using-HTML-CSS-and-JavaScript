@@ -10,5 +10,5 @@ monthNameEl.innerText = date.toLocaleString("en",{
 })
 
 dayNameEl.innerText = date.toLocaleString("en",{
-    weekday:
+    weekday:""
 })
