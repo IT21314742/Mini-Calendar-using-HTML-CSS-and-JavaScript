@@ -14,3 +14,4 @@ dayNameEl.innerText = date.toLocaleString("en",{
 })
 
 dayNumEl.innerText = date.getDate()
+
