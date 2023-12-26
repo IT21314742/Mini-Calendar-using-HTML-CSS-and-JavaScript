@@ -1,2 +1,2 @@
 const monthNameEl = document.getElementById("month-name");
-const dayNameEl = 
+const dayNameEl = document.getElementById
