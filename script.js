@@ -1,1 +1,1 @@
-const monthNameEl
+const monthNameEl = document.getElementById();
