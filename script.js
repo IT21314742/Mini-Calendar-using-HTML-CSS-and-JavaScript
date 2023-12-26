@@ -13,4 +13,4 @@ dayNameEl.innerText = date.toLocaleString("en",{
     weekday:"long"
 })
 
-dayNumEl.innerText = date
+dayNumEl.innerText = date.getDate
