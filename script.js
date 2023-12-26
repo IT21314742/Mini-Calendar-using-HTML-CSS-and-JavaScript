@@ -5,4 +5,4 @@ const yearEl = document.getElementById("year");
 
 const date = new Date();
 
-monthNameEl.innerText = date.toLocaleString()
+monthNameEl.innerText = date.toLocaleString("en")
