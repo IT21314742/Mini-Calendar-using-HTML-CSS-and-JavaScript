@@ -10,8 +10,11 @@ This project is a mini calendar application developed using HTML, CSS, and JavaS
 - **Responsive Design**: The layout is responsive, adapting to mobile and desktop screens.
 - **Current Day Highlight**: The current day is highlighted for easy recognition.
 
-## Screenshots
-_Add a screenshot or GIF of the calendar showing different months to demonstrate how it looks._
+## Usage
+- The calendar will automatically display the current month and year.
+- Use the "Next" and "Previous" buttons to navigate between months.
+- The calendar dynamically updates to show the correct number of days for each month.
+- The current day will be highlighted for quick reference.
 
 ## Demo
 _Provide a link to a live demo, if available (e.g., GitHub Pages)._
