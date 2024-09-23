@@ -29,5 +29,5 @@ This project is a mini calendar application developed using HTML, CSS, and JavaS
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/mini-calendar
-   cd mini-calendar
+   git clone https://github.com/IT21314742/Mini-Calendar-using-HTML-CSS-and-JavaScript
+   cd Mini-Calendar-using-HTML-CSS-and-JavaScript
