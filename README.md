@@ -16,8 +16,14 @@ This project is a mini calendar application developed using HTML, CSS, and JavaS
 - The calendar dynamically updates to show the correct number of days for each month.
 - The current day will be highlighted for quick reference.
 
-## Demo
-_Provide a link to a live demo, if available (e.g., GitHub Pages)._
+## Code Structure
+- HTML: Defines the structure of the calendar, including the month, year, and days.
+- CSS: Styles the calendar, ensuring responsiveness and highlighting the current day.
+- JavaScript: Handles the logic for updating the calendar as the user navigates through different months.
+
+## Customization
+- Change Design: You can easily update the CSS to adjust the design of the calendar (colors, font, layout).
+- Add Features: Extend the functionality to include additional features such as event tracking or year navigation.
 
 ## Installation
 
